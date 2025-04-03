@@ -1,9 +1,4 @@
-/**
- * name: charles lee
- * student id: 100390994
- * section: 002
- * instructtor: muntaseer
-*/
+
 #include <iostream>
 #include <unordered_map>
 #include <unordered_set>
